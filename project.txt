@@ -1,0 +1,39 @@
+go to B2
+Custom Format = yyyy/mm/dd
+Paste Format up to B9
+
+go to C2
+Custom Format = 0"days"
+Paste Format to C9
+
+go to D2
+=B2+C2
+Auto-format to D9
+
+go to D2
+Custom Format = yyyy/mm/dd
+Paste Format up to D9
+
+highlight A2:B9
+Insert -> Bar -> 2D Bar
+Stacked Bar
+Layout -> Current Selection -> Vertical (Category) Axis -> Format Selection -> Format Axis -> Axis Options -> uncheck Multi-level Category Labels
+Layout -> Current Selection -> Vertical (Category) Axis -> Format Selection -> Format Axis -> Axis Options -> check Categories in reverse order
+Layout -> Current Selection -> Horizontal(Value) Axis -> Format Selection -> Format Axis -> Axis Options -> Axis labels: High
+Layout -> Labels -> Data Labels -> Inside End
+Layout -> Labels -> Legend -> None
+Layout -> Axes -> Axes -> Primary Vertical Axis -> Show Right to Left Axis
+
+
+Design -> Select Data -> Add
+Series name: Number of Days
+Serires values: =answer!$C$2:$C$9
+Layout -> Current Selection -> Series "Start Date" -> Format Selection
+Fill: No fill, Border Color: No line
+Layout -> Current Selection -> Horizontal(Value) Axis -> Format Selection -> Format Axis -> Axis Options -> Minimum: Fixed 39569
+Layout -> Current Selection -> Horizontal(Value) Axis -> Format Selection -> Format Axis -> Axis Options -> Major unit: Fixed 31
+
+Layout -> Chart Title -> Above Chart: Schedule
+
+drop shadow
+

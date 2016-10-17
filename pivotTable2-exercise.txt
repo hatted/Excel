@@ -1,0 +1,24 @@
+Scenario: You have data organized into the following table. You¡¯d like to chart the tour with the total sales and sales person involved. What is the best way to create a chart that compares Mountain Bike Tour, Sales Person and Total Sales?
+
+
+
+
+
+Solution: The best way to visually rearrange any summarized data is with a Pivot Chart. It is the capability of changing the arrangement simply by rotating row and column headings that gives Pivot Tables and Pivot Charts their names. Although you typically create a Pivot Table first, then a Pivot Chart, it is possible to create both simultaneously from a standard table by doing the following: 
+
+1.     Select the range of data from your worksheet, Table/Range: A1:F13
+
+2.     On the Insert tab, in the Tables group, click the PivotTable button down arrow and select PivotChart.  
+
+3.     If desired, select to display the Pivot Chart on a New Worksheet.
+
+4.     Click OK.
+
+5.     In the PivotTable Field List, select Mountain Bike Tour, Sales Person and Total Sales.
+
+6.     Close the PivotTable Field List and PivotChart Filter Pane by clicking the X in the upper right corner of each pane.
+
+7.     Click-drag the left border of the Chart to resize it so that all the labels can all be read.
+
+8.     Notice that the associated Pivot Table was also created on the left side of the chart.
+

@@ -1,0 +1,34 @@
+Each of the following are provided with example and exercises for students.
+
+Excel----------------
+Merge and format cells
+Freeze panes
+List
+Sort and filter
+Value from another sheet or file
+Compare worksheets side by side
+conditional formatting
+Import and Export
+Chart
+Pivot table
+Smart Art
+Paste Special
+Cell format
+Print Center
+Insert page number
+Protect Documents
+Hack Protected Password
+
+
+Functions and Formulas
+count
+countif
+date
+future value
+hlookup
+if
+present value
+rand
+round up numbers
+subtotal
+vlookup

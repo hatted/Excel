@@ -1,0 +1,11 @@
+1) Click the Developer tab. Locate and click the Insert button in Controls group. You will see a little frame pops up, providing both Form Controls and ActiveX Controls. Click the More Controls icon of ActiveX Controls category (usually on the bottom-right corner of that frame).
+
+2) In the More Controls dialog box, scroll down to select Shockwave Flash Object and click OK button. (I am not sure, at this moment that this object is provided by default Microsoft Office installation. If you¡¦re able to watch YouTube video with a web browser, the Shockwave flash object should be available for Microsoft Office too).
+
+3) Now, move the mouse to draw the Shockwave flash container, either in the shape of square or rectangle (if you know how make it round or in other shapes, please leave a comment :-).
+
+4) Right click the ¡§letter box¡¨ you¡¦ve just created, select Properties option from the Context menu.
+
+5) In Shockwave flash object properties dialog box, locate Movie field and enter the full path of SWF or FLV file that you want to embed.
+
+6) Close the Properties dialog box. The box remains with a cross, right?

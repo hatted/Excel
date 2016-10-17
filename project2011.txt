@@ -1,0 +1,20 @@
+change the start date cell format to number
+select A1:C9
+
+Insert -> Bar -> 2D -> Stacked Bar
+select the date bar
+fill none
+delete legend
+
+select y axis name
+Layout -> Current Selection -> Format Select
+check Categories in reverse order
+
+change the start date cell format to date
+
+select x axis name
+Layout -> Current Selection -> Format Select
+Mimimum: Fixed 39560
+Maximum: Fixed 39730
+Major unit: Fixed 14
+Minor unit: Fixed 7

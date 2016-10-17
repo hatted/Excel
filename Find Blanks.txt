@@ -1,0 +1,4 @@
+Home -> Editing -> Find & Select -> Go to special -> Blanks
+
+Mac Excel 2011
+Edit -> Go To -> Special -> Blanks
