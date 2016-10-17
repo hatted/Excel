@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<list>
+	<contact>
+	  <lastname>Chan</lastname>
+	  <firstname>Ada</firstname>
+	  <tel>9876543</tel>
+	</contact>
+	<contact>
+	  <lastname>Leung</lastname>
+	  <firstname>Ben</firstname>
+	  <tel>9876555</tel>
+	</contact>
+</list>
