@@ -1,0 +1,14 @@
+I've seen someone construct what seemed like cell references in Excel that looked like
+
+=[@[column title]]*someothercell
+What is this feature called, are the rectangular brackets and the at sign independent or do they belong together? How does it work precisely?
+
+
+
+====================================================================================
+Answer
+The square brackets are used for structured references, which make it easier to reference data in named tables (which you can create by going to Insert ? Table).
+
+The @ is new notation in Excel 2010 replacing [#This Row] from Excel 2007. The at symbol is used to shorten formulas inside named tables referencing cells in the same row.
+
+The inner square brackets are only needed because your bar foo table heading contains a space.
