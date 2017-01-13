@@ -1,0 +1,15 @@
+-Covert text to number
+Column F
+Data -> Data Tools -> Text to Columns -> Finish
+
+-Convert date to 3 columns
+Column B -> Insert Column 2 times
+Select Column A -> 
+Data -> Data Tools -> Text to Columns -> Next -> Others:- -> Finish
+
+-Combine 3 columns into one column
+Column A -> Insert 1 Column
+A3=B3&" "&C3" "&D3
+
+=Round(Y3,2)
+
